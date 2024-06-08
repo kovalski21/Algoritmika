@@ -1,6 +1,6 @@
 from pygame import *
 
-
+# Добавляем изменения
 #класс-родитель для других спрайтов
 class GameSprite(sprite.Sprite):
  # конструктор класса
